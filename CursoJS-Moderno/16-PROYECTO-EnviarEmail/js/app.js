@@ -9,7 +9,6 @@ function eventListener(){
 }
 
 
-//prueba
 
 // funciones
 function iniciarApp(){
